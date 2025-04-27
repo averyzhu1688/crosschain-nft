@@ -1,0 +1,26 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "CallWithExactGas",
+  "sourceName": "@chainlink/contracts-ccip/src/v0.8/shared/call/CallWithExactGas.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "NoContract",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "NoGasForCallExactCheck",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "NotEnoughGasForCall",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x60566050600b82828239805160001a6073146043577f4e487b7100000000000000000000000000000000000000000000000000000000600052600060045260246000fd5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220409417ba670e816b32c3dfddab5ff3dcf564c8ac0e9b664be2bd430e8756a8ff64736f6c634300081c0033",
+  "deployedBytecode": "0x73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220409417ba670e816b32c3dfddab5ff3dcf564c8ac0e9b664be2bd430e8756a8ff64736f6c634300081c0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
